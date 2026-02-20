@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { Box } from '@mui/material';
 
-import Navigation from './components/layout/Navigation';
-import Footer from './components/layout/Footer';
-import CartDrawer from './components/cart/CartDrawer';
+import Navigation from './components/layout/Navigation.jsx';
+import Footer from './components/layout/Footer.jsx';
+import CartDrawer from './components/cart/CartDrawer.jsx';
 import Home from './pages/Home';
 
 function App() {
